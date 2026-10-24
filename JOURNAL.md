@@ -33,11 +33,11 @@ Hence, I went to design the entire project through sketches and create the BOM, 
 
 Well, I got my project, I got my BOM, I got my ideas, and now, it's time to launch and do the entire thing!
 
-![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/vxL2pduJ8aoZ6ir0BeAE8MP0uXIpb6g2/5b7499baf4ae21df5388eadf6c0087d0090fbb17c8a2fe5af3d6a5c357fbd8ca.png)
+![image](https://halflife.hackclub-assets.com/sessions/vxL2pduJ8aoZ6ir0BeAE8MP0uXIpb6g2/5b7499baf4ae21df5388eadf6c0087d0090fbb17c8a2fe5af3d6a5c357fbd8ca.png)
 
 My BOM isn't finished tho
 
-![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/vxL2pduJ8aoZ6ir0BeAE8MP0uXIpb6g2/cf1d0c5bbcadfc66448d8f27d12485a077707df825a84170177f961569628fe2.png)
+![image](https://halflife.hackclub-assets.com/sessions/vxL2pduJ8aoZ6ir0BeAE8MP0uXIpb6g2/cf1d0c5bbcadfc66448d8f27d12485a077707df825a84170177f961569628fe2.png)
 
 Sorry for the blurry picture!!!
 
@@ -71,7 +71,7 @@ An extra 30 minutes was used on making my BOM, download CAD parts from grabCAD, 
 
 An extra 30 minutes used for quality check on the parts.
 
-![Screenshot 2026-10-14 161425](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/vxL2pduJ8aoZ6ir0BeAE8MP0uXIpb6g2/78ac829a8e91ee4fba568439de8b0686341ccf562652f3b5a80d54e06428675d.png)
+![Screenshot 2026-10-14 161425](https://halflife.hackclub-assets.com/sessions/vxL2pduJ8aoZ6ir0BeAE8MP0uXIpb6g2/78ac829a8e91ee4fba568439de8b0686341ccf562652f3b5a80d54e06428675d.png)
 
 fully completed version of the robotic arm CAD model!!!
 
@@ -89,8 +89,8 @@ That's mostly it for this session, the firmware will also be uploaded to Github.
 
 Below are the pictures of the stuff that I have made!
 
-![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/vxL2pduJ8aoZ6ir0BeAE8MP0uXIpb6g2/a3d288b60bacb75879c98759889e8433ec6be6f5130b6d929400b577519dc283.png)
+![image](https://halflife.hackclub-assets.com/sessions/vxL2pduJ8aoZ6ir0BeAE8MP0uXIpb6g2/a3d288b60bacb75879c98759889e8433ec6be6f5130b6d929400b577519dc283.png)
 
-![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/vxL2pduJ8aoZ6ir0BeAE8MP0uXIpb6g2/7cc95f2b910ec0c812ec1d188aa27c6dcb5418e27fcaf5a1506962bf21d224f1.png)
+![image](https://halflife.hackclub-assets.com/sessions/vxL2pduJ8aoZ6ir0BeAE8MP0uXIpb6g2/7cc95f2b910ec0c812ec1d188aa27c6dcb5418e27fcaf5a1506962bf21d224f1.png)
 
-![Screenshot 2026-10-14 161425](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/vxL2pduJ8aoZ6ir0BeAE8MP0uXIpb6g2/78ac829a8e91ee4fba568439de8b0686341ccf562652f3b5a80d54e06428675d.png)
+![Screenshot 2026-10-14 161425](https://halflife.hackclub-assets.com/sessions/vxL2pduJ8aoZ6ir0BeAE8MP0uXIpb6g2/78ac829a8e91ee4fba568439de8b0686341ccf562652f3b5a80d54e06428675d.png)
