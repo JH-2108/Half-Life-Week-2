@@ -65,8 +65,6 @@ The design will be refined to reduce unnecessary weight, prevent mechanical inte
 | Print Legion                                  | 1   | PrintLegion     | $9.00     | $9.00      | https://printlegion.hackclub.com                                                                                                                                                                                                                              |
 | M3 x 8mm Philips pan-head machine screws      | 1   | Shopee Malaysia | $0.50     | $0.50      | https://shopee.com.my/M3-M4-M5-M6-M8-304-Stainless-Steel-Screws-Phillips-Countersunk-Flat-Head-Screw-TechMakers-Cross-Recessed-Phillip-Screw-i.55645224.12987786264?extraParams=%7B%22display_model_id%22%3A310357492388%2C%22model_selection_logic%22%3A3%7D |
 | Estimated total shipping                      | 1   |                 |           | $2.95      |                                                                                                                                                                                                                                                               |
-# Onshape Link
-https://cad.onshape.com/documents/3c30a631e05afb6c4c8b227b/w/e09087d3c00c34fd0a42f4f2/e/1253bb27058cea8fdef033b7
 
 # Project Images 
 
